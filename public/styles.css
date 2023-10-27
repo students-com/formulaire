@@ -1,0 +1,16 @@
+.header{
+    height: 5vh;
+    padding: 10px;
+    background: #000;
+    color: #eaeaea;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+}
+
+#site-title:hover{
+    color: lightcoral;
+}
